@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is the repo for my code along while doing namaste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashrajum7/namaste-react.git"
+  },
+  "author": "Akash Raju M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashrajum7/namaste-react/issues"
+  },
+  "homepage": "https://github.com/akashrajum7/namaste-react#readme",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
+}
