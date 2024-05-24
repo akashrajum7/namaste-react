@@ -16,7 +16,7 @@
     "url": "https://github.com/akashrajum7/namaste-react/issues"
   },
   "homepage": "https://github.com/akashrajum7/namaste-react#readme",
-  "dependencies": {
+  "devDependencies": {
     "parcel": "^2.12.0"
   }
 }
